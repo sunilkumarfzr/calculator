@@ -1,0 +1,19 @@
+
+body 
+{ background-image:url("https://blog.prezi.com/wp-content/uploads/2019/03/asoggetti-318284-unsplash-1024x684.jpg");
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    margin-top: 15%;  
+    margin-left: 50%;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
+.input {
+    border-radius: 10px;
+}
+#result {
+background-color: cornsilk;
+}
